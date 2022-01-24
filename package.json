@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Gortenzia/ajs2#readme",
   "dependencies": {
+    "@gortenzia/ajs": "^1.0.0",
     "error-ex": "github:Qix-/node-error-ex"
   }
 }
